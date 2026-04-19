@@ -246,16 +246,24 @@ Learn model tuning and optimization
 
 
  Tech Stack
+ 
+ 
 Python
+
 FastAPI
+
 OpenAI API
+
 Google Gemini API
+
 Hugging Face
+
 LangChain & LangGraph
+
 Docker
+
 PyTorch
+
 n8n
 
- Note
 
-This repository is continuously updated as I progress and build more advanced AI systems.
